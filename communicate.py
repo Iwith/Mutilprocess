@@ -1,3 +1,6 @@
+'''
+使用Queue或Pipline可以进程间通信
+'''
 #!/usr/bin/env python
 
 import multiprocessing as mp
